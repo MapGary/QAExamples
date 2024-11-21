@@ -4,4 +4,6 @@
 
 ✅ [Test-cases]()
 
-✅ [Requests]()
+✅ [Postman environment settings](https://github.com/MapGary/QAExamples/blob/main/courseAPI/Test%20Collection%20Env.postman_environment.json)
+
+✅ [Requests](https://github.com/MapGary/QAExamples/blob/main/courseAPI/Test%20Collection.postman_collection.json)
